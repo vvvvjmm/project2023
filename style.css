@@ -5,4 +5,29 @@ header{
   backgroung-color:#6C8CD5
     padding{40px 0px 40px 25px
   }
-  
+  .main-link{
+    background-image:linear-gradient(A67000, 62270, A67000);
+    padding:5px 10px 5px 10px;
+    font-size:36px;
+    text-decoration:none;
+    color:#ffffff;
+  }
+  h1{
+    text-align: center;
+    color:#A67000;
+    font-size: 100px;
+    text-shadow: 0px 20px 10px #8f9130;
+  }
+  p{
+    font-size: 24px;
+    margin-left;
+    
+  }
+  footer {
+  padding: 65px 0px 80px 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
