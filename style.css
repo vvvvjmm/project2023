@@ -49,6 +49,7 @@ header{
     border-radius:10px;
   }
   .mine-link:hover{
-    background-image:linear-gradient(#3c3c3d,#cfcfcf 10%, 
+    background-image:linear-gradient(#3c3c3d,#cfcfcf 10%) 
+  }
     
 
