@@ -30,4 +30,10 @@ header{
   align-items: center;
   margin: 0 auto;
 }
+  .discription{
+    display:flex;
+    margin: 0 auto;
+    justify-content:center;
+    align-right:90px;
+  }
 
