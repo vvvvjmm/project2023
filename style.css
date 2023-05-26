@@ -36,4 +36,17 @@ header{
     justify-content:center;
     align-items:90px;
   }
+  nav{
+    margin-right:90px;
+    text-align:right;
+  }
+  nav .cross{
+    margin-right:30px;
+    font-size:50px;
+    text-decoration:none;
+    color:#1515;
+    padding:5px;
+    border-radius:10px;
+  }
+    
 
